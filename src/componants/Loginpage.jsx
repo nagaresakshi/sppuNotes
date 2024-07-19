@@ -6,7 +6,7 @@ export default function Loginpage() {
       <div className="col-md-5">
         <div className="card pb-3">
           <div className="card-header">
-            <h3 className="text-center">Login Buddy</h3>
+            <h3 className="text-center">Login</h3>
           </div>
           <div className="card-body">
             <form>
