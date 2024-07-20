@@ -43,11 +43,6 @@ export default function Sidebar() {
             </div>
           </div>
         </nav>
-
-        <main className="col-md-9 ms-sm-auto col-lg-10 px-md-4">
-          
-          {/* Add your main content here */}
-        </main>
       </div>
     </div>
   );
