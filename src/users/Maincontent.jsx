@@ -3,7 +3,7 @@ import Sidebar from './Sidebar'
 export default function Maincontent() {
   return (
     <div>
-      <Sidebar/>
+      <Sidebar />
     </div>
   )
 }

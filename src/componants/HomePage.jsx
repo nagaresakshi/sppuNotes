@@ -1,13 +1,13 @@
 import React from "react";
-import Navbar from "./Navbar";
-import Maincontent from "./Maincontent";
+import Maincontent from "../users/Maincontent";
+import Navbar from "../users/Navbar";
 export default function HomePage() {
   return (
     <div>
-      <Navbar/>
-      <Maincontent/>
-      
-      
+      <Navbar />
+      <Maincontent />
+
+
     </div>
   );
 }
